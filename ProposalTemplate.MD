@@ -44,6 +44,8 @@ https://journals.indexcopernicus.com/api/file/viewByFileId/594400.pdf
 
 https://github.com/akcgjc007/kick_U
 
+https://www.researchgate.net/publication/342742097_Smart_Contract_and_Blockchain_for_Crowdfunding_Platform
+
 
 ## Presentation Time Estimate:
 25-30 minutes + Q/A
